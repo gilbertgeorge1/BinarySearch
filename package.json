@@ -1,0 +1,19 @@
+{
+  "name": "binary-search",
+  "version": "1.0.0",
+  "description": "A simple binary search implementation",
+  "main": "binarySearch.js",
+  "scripts": {
+    "test": "echo 'Error: no tests specified' && exit 1"
+  },
+  "keywords": [
+    "binary",
+    "search",
+    "algorithm"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
