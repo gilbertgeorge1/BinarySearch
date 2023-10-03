@@ -7,7 +7,7 @@ function binarySearch(file, target) {
   
     // Convert the data to numbers (assuming they are all numbers)
     data = data.map(Number);
-  
+    console.log("in here");
     // Sort the array in ascending order
     data.sort((a, b) => a - b);
   
